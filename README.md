@@ -1,1 +1,3 @@
-##Instagram UI Clone
+# Instagram UI Clone
+
+Use flutter
